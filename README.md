@@ -4,9 +4,10 @@ Trabalho desenvolvido durante a disciplina de BD
 # Sumário
 
 ### 1. COMPONENTES<br>
-Integrantes do grupo<br>
-seu_nome:seu_email@dominio.com<br>
-segundo_nome:segundo_email@dominio.com<br>
+Integrantes do grupo:<br>
+gabriel_marchezi@hotmail.com<br>
+helenfranca93@gmail.com<br>
+olavo.curatola@gmail.com<br>
 
 ### 2.INTRODUÇÃO E MOTIVAÇAO<br>
 Este documento contém a especificação do projeto do banco de dados <nome do projeto> 
