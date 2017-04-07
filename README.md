@@ -13,10 +13,10 @@ olavo.curatola@gmail.com<br>
 Este documento contém a especificação do projeto do banco de dados <nome do projeto> 
 <br>e motivação da escolha realizada. <br>
 
-<br>Sistema de Gestão de Manutenção de Instalações.
+<br>Sistema de Gestão de Manutenção de Instalações. <br>s
 Atualmente o foi analisado que o instituto federal do espírito santo (IFES)  campus serra, sofre com a depreciação de equipamentos, sejam eles: cadeiras, computadores, mesas e etc.
-Contudo, procuramos viabilzar a construção de um sistema em que os alunos e funcionários, possam  comunicar ao setor responsável a necessidade  de manutenção ou troca.
-A partir de um smartphone, com câmera e acesso a internet, o usuário preenche um formulário  em uma aplicação, ou via site web (portabilidade). 
+Contudo, procuramos viabilzar a construção de um sistema em que os alunos e funcionários, possam  comunicar ao setor responsável a necessidade de manutenção ou troca.
+A partir de um smartphone, com câmera e acesso a internet, o usuário preenche um formulário em uma aplicação, ou via site web (portabilidade). 
 Os dados são enviados a um sistema central na instituição onde será feito o processamento e análise da necessidade ou não de uma resposta: abrir um edital, realizar uma troca e etc. Essas respostas inicialmente serão dadas pelo setor que realiza as manutenções solicitadas e cada solicitação terá um controle realizado também pelo sistema em conjunto com o mantenedor para saber sobre o uso de sobressalentes, planos de manutenção, etc.<br>
 
 ### 3.MINI-MUNDO<br>
